@@ -54,4 +54,10 @@ Run the Jupyter Notebook in **Google Colab**:
 ## 📈 Results
 
 Sample evaluation metrics (varies depending on data):
+Accuracy : 0.9000
+Precision: 0.0000
+Recall   : 0.0000
+F1 Score : 0.0000
 
+
+![output](https://github.com/user-attachments/assets/b6cb7709-749e-4e63-a837-527f5bc2f896)
